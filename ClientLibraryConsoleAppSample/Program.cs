@@ -12,7 +12,7 @@ namespace ClientLibraryConsoleAppSample
     {
         //============= Config [Edit these with your settings] =====================
         internal const string azureDevOpsOrganizationUrl = "https://dev.azure.com/organization"; //change to the URL of your Azure DevOps account; NOTE: This must use HTTPS
-        // internal const string vstsCollectioUrl = "http://myserver:8080/tfs/DefaultCollection" alternate URL for a TFS collection
+        // internal const string vstsCollectionUrl = "http://myserver:8080/tfs/DefaultCollection"; //alternate URL for a TFS collection
         //==========================================================================
 
         //Console application to execute a user defined work item query
